@@ -5,4 +5,3 @@ scikit-learn
 matplotlib
 joblib
 streamlit-option-menu
-my_sleep_data.csv
