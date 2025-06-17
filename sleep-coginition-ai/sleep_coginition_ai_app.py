@@ -12,7 +12,7 @@ from datetime import datetime
 from streamlit_option_menu import option_menu
 
 # --- Page Setup ---
-st.set_page_config(page_title="Sleep & Cognition AI", page_icon="brain_sleep_icon.png", layout="wide")
+st.set_page_config(page_title="Sleep & Cognition AI", page_icon="sleep-coginition-ai/brain_sleep_icon.png", layout="wide")
 
 # --- Sidebar Navigation ---
 with st.sidebar:
