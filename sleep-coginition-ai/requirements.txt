@@ -5,4 +5,3 @@ scikit-learn
 matplotlib
 joblib
 streamlit-option-menu
-os
