@@ -114,7 +114,7 @@ else:
 # --- MAIN SECTIONS ---
 if selected == "Home":
     st.title("🧠 Sleep & Cognition AI Dashboard")
-    st.markdown("Upload your sleep and cognition data to train an AI model and predict performance based on your sleep pattern.")
+    st.success("Upload your sleep and cognition data to train an AI model and predict performance based on your sleep pattern.")
 
 elif selected == "Model Evaluation":
     st.header("📊 Model Evaluation")
