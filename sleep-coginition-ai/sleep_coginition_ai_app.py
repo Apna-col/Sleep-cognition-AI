@@ -32,7 +32,7 @@ if uploaded_file is not None:
     data = pd.read_csv(uploaded_file)
     st.sidebar.success("✅ File uploaded and loaded successfully!")
 else:
-    file_path = "my_sleep_data.csv"
+    file_path = my_sleep_data.csv
     if not os.path.exists(file_path):
         st.error(f"Data file '{file_path}' not found. Please upload one.")
         st.stop()
