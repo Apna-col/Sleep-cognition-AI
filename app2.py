@@ -54,6 +54,7 @@ if selected == "Home":
     ✓ Awake Time  
     ✓ Bed Time  
     """)
+  st.info("This AI dashboard is made for School Project purpose.Not recommended for medical and research grade purpose")
 
 # -----------------------------------------------------------
 # PREDICTION PAGE
@@ -125,4 +126,5 @@ if selected == "About":
     Using sleep factors like duration, efficiency, temp, sound,
     light, awake time, and bed time.
     """)
+
 
