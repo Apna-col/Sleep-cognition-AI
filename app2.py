@@ -17,7 +17,7 @@ le_react = encoders['react']
 # Streamlit Page Config
 # -----------------------------------------------------------
 st.set_page_config(page_title="Cognitive Performance Predictor",
-                   page_icon="C:\Users\abu saif\Downloads\A peaceful sleep illustration.png",
+                   page_icon="A peaceful sleep illustration.png",
                    layout="wide")
 
 # -----------------------------------------------------------
@@ -127,6 +127,7 @@ if selected == "About":
     Using sleep factors like duration, efficiency, temp, sound,
     light, awake time, and bed time.
     """)
+
 
 
 
