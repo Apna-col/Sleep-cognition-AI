@@ -38,7 +38,7 @@ with st.sidebar:
 if selected == "Home":
     st.title("🧠 Cognitive Performance Prediction Dashboard")
     st.subheader("AI model trained on sleep behavior data")
-    st.info("This AI dashboard is made for School Project purpose.Not recommended for medical and research grade purpose")
+    st.info("This AI dashboard is made for School Project purpose.Not recommended for medical and research grade purpose.")
     st.markdown("""
     This smart dashboard predicts:
 
@@ -127,6 +127,7 @@ if selected == "About":
     Using sleep factors like duration, efficiency, temp, sound,
     light, awake time, and bed time.
     """)
+
 
 
 
