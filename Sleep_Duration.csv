@@ -1,0 +1,36 @@
+﻿Sleep_Dur,Sleep_Effi,Room_*C,Sound,Light,Awake_tim,Bed_time,Mem_Acc,Reaction
+6.51,6.46,Normal,None,Dim,5,11:54,Good,Fast
+9.26,9.22,Normal,None,Dim,4,10:34,Fine,Medium
+9.13,9.08,Normal,None,Dim,5,11:11,Fine,Medium
+7.57,7.55,Normal,None,Dim,2,10:44,Good,Fast
+4.12,4.12,Normal,None,Dim,0,12:57,Poor,Slow
+5.22,5.22,Normal,None,Dim,0,12:57,Fine,Medium
+3.52,3.52,Normal,None,Dim,0,02:22,Poor,Slow
+6.7,4.45,Normal,None,Dim,1.28,12:53,Good,Fast
+11.25,8.25,Normal,None,Dim,2,11:15,Good,Fast
+9.7,8.59,Normal,None,Darkness,8,11:19,Fine,Fast
+6.24,5.29,Normal,None,Bright,51,12:44,Good,Medium
+9.7,8.59,Normal,None,Darkness,8,11:19,Good ,Medium
+7.31,7.2,Normal,None,Darkness,11,11:32,Good,Fast
+5.3,5.29,Normal,None,Darkness,1,11:56,Fine,Fast
+6.21,6.08,Normal,None,Bright,13,12:01,Fine,Fast
+5.49,5.43,Normal,None,Bright,6,12:54,Fine,Medium
+9.42,9.16,Normal,None,Bright,26,10:16,Good,Slow
+5.17,4.17,Normal,None,Dim,60,01:19,Poor,Slow
+5.26,5.2,Normal,None,Dim,7,12:27,Poor,Medium
+7.18,6,Normal,None,Dim,78,01:00,Good,Fast
+4.37,3.32,Normall,None,Dim,65,01:10,Poor,Slow
+4.39,3.48,Normal,None,Dim,51,01:02,Poor,Slow
+5.45,4.54,Normal,None,Dim,69,12:34,Poor,Slow
+5.13,4,Normal,None,Dim,73,02:05,Poor,Slow
+6.3,5.41,Normal,None,Dim,20,01:37,Fine,Medium
+7.02,5.01,Normal,None,Dim,121,11:45,Poor,Slow
+6.46,6.29,Normal,None,Dim,1,11:19,Good,Fast
+6.21,5.25,Normal,None,Dim,104,02:00,Poor,Fast
+6.24,5.44,Normal,None,Dim,40,12:04,Fine,Medium
+5.4,5,Normal,None,Dim,40,11:51,Good,Medium
+7.25,7.01,Normal,None,Dim,24,11:26,Good,Fast
+10.28,9.5,Normal,None,Dim,33,11:36,Fine,Fast
+7.08,6,Normal,None,Dim,68,12:55,Good ,Fast
+8.5,8.09,Normal,None,Dim,41,11:47,Good,Fast
+7.3,6.05,Normal,None,Dim,85,11:45,Good,Medium
